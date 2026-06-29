@@ -1,1 +1,1 @@
-python medbot.py
+worker: python medbot.py

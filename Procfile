@@ -1,1 +1,1 @@
-worker: python3 medbot.py
+ web: python3 medbot.py
